@@ -1,0 +1,5 @@
+# Kaggle Bike Sharing Demand Solution
+
+Between May 2014 and May 2015 the Bike Sharing Demand Kaggle Competition took place for the Capital Bikeshare program in the city of Washington, D.C. Bike sharing systems are a means of renting bicycles where the process of obtaining membership, rental, and bike return is automated via a network of kiosk locations throughout a city. Using these systems, people are able rent a bike from a one location and return it to a different place on an as-needed basis. The objective of the competition in question is to predict the total count of bikes rented on an hour basis, based on the training data provided.
+
+The current work presents a python-based solution for this competition, using different regression models and, above all, focusing in feature engineering based on the given dataset. The presented solution is able to predict the count of rented bicycles with a low RMSLE, and is ranked between the top 100 best solutions according to Kaggle’s leaderboard. 
